@@ -1,0 +1,236 @@
+
+@media (max-width: 575.98px) {
+    #navbar{
+        background: linear-gradient(to right, #4a5d8b,#b3eaff);
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .item ul{
+        display: flex;
+        flex-direction: column;
+    }
+    .item ul li a {
+        color: #111111;
+        transition: all linear .3s;
+    }
+    .item ul li a:hover{
+        color: antiquewhite;
+    }
+    .banar_text {
+        width: auto;
+    }
+    .banar_text h2 {
+        font-size: 37px;
+    }
+    .banar_text p {
+        font-size: 15px;
+    }
+    .banar_text a {
+        padding: 13px 46px;
+        border-radius: 19px;
+        font-size: 15px;
+        text-align: center;
+        margin-bottom: 200px;
+    }
+    .input {
+        margin-right: 45px;
+    }
+    .banar_image {
+        padding-top: 0;
+        margin-left: 0;
+        margin-bottom: 115px;
+    }
+    #icon .row{
+        justify-content: center;
+    }
+    .icon {
+        height: 30px;
+        width: 30px;
+        font-size: 12px;
+        line-height: 30px;
+        margin-top: -40px;
+    }
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px){
+    #navbar{
+        background: linear-gradient(to right, #4a5d8b,#b3eaff);
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .item ul{
+        display: flex;
+        flex-direction: column;
+    }
+    .item ul li a {
+        color: #111111;
+        transition: all linear .3s;
+    }
+    .item ul li a:hover{
+        color: antiquewhite;
+    }
+    .banar_text {
+        width: auto;
+    }
+    .banar_text h2 {
+        font-size: 37px;
+    }
+    .banar_text p {
+        font-size: 15px;
+    }
+    .banar_text a {
+        padding: 5px 79px;
+        border-radius: 19px;
+        font-size: 21px;
+        text-align: center;
+        margin-bottom: 200px;
+    }
+    .input {
+        margin-right: 45px;
+    }
+    .banar_image {
+        padding-top: 0;
+        margin-left: 0;
+        margin-bottom: 115px;
+    }
+    #icon .row{
+        justify-content: center;
+    }
+    .icon {
+        height: 40px;
+        width: 40px;
+        font-size: 21px;
+        line-height: 40px;
+        margin-top: -55px;
+    }
+}
+
+
+
+
+@media (min-width: 768px) and (max-width: 991.98px){
+    #navbar{
+        background: linear-gradient(to right, #4a5d8b,#b3eaff);
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .item ul{
+        display: flex;
+        flex-direction: column;
+    }
+    .item ul li a {
+        color: #111111;
+        transition: all linear .3s;
+    }
+    .item ul li a:hover{
+        color: antiquewhite;
+    }
+    .banar_text {
+        width: auto;
+    }
+    .banar_text h2 {
+        font-size: 37px;
+    }
+    .banar_text p {
+        font-size: 15px;
+        width: 500px;
+    }
+    .banar_text a {
+        padding: 10px 32px;
+    }
+    .input {
+        margin-right: -50px;
+    }
+    .banar_image {
+        padding-top: 0;
+        margin-left: 0;
+        margin-bottom: 115px;
+    }
+    #icon .row{
+        justify-content: center;
+    }
+    .icon {
+        height: 40px;
+        width: 40px;
+        font-size: 21px;
+        line-height: 40px;
+        margin-top: -55px;
+    }
+}
+
+
+
+
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+    .item ul li a {
+        font-size: 23px;
+    }
+    .item ul li:nth-child(1) {
+        margin-right: 330px;
+    }
+    .banar_text {
+        padding-top: 224px;
+        width: auto;
+    }
+    .banar_image {
+        padding-top: 0px;
+        margin-left: 481px;
+        margin-bottom: 201px;
+    }
+    #icon .row{
+        justify-content: center;
+    }
+    .icon {
+        height: 40px;
+        width: 40px;
+        font-size: 21px;
+        line-height: 40px;
+        margin-top: -55px;
+    }
+}
+
+
+
+
+@media (min-width: 1200px) and (max-width: 1399.98px){
+    .item ul li a {
+        font-size: 23px;
+    }
+    .item ul li {
+        margin-right: 39px;
+    }
+    .item ul li:nth-child(1) {
+        margin-right: 511px;
+    }
+    .banar_text {
+        padding-top: 224px;
+        width: auto;
+    }
+    .banar_image {
+        padding-top: 0px;
+        margin-left: 481px;
+        margin-bottom: 201px;
+    }
+    #icon .row{
+        justify-content: center;
+    }
+    .icon {
+        height: 40px;
+        width: 40px;
+        font-size: 21px;
+        line-height: 40px;
+        margin-top: -55px;
+    }
+}
+
+@media (min-width: 1400px){
+    .item ul li:nth-child(1) {
+        margin-right: 511px;
+    }
+}
+
